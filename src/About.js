@@ -11,11 +11,11 @@ const About = () =>
         <h1>About</h1>
         <p>Vets Who Design is a directory of veterans who have successfully transitioned from military service to a career in the design industry.</p>
         <p>The main mission of the project is to support veterans with their transition to the civilian world by providing career guidance, inspiration, networking, and mentoring opportunities.</p>
-        <p>We also believe in the diversity and inclusiveness of a workplace, therefore this directory is a great resource for companies who are trying to improve in that direction and prove their service appreciation by hiring veterans.</p>
+        <p>We also believe in workplace diversity and inclusiveness, thus this directory is a great resource for companies to discover veteran candidates.</p>
         <h2>Inspiration</h2>
-        <p><a href='https://womenwho.design' target='_blank' rel="noopener noreferrer">Women Who Design</a> (A directory of accomplished women in the design industry.)</p>
-        <p><a href='https://blackswho.design' target='_blank' rel="noopener noreferrer">Blacks Who Design</a> (A directory of the inspiring Black designers in the industry.)</p>
-        <p><a href='https://www.latinxswhodesign.com' target='_blank' rel="noopener noreferrer">Latinxs Who Design</a> (A living directory of thriving Latinxs in the design industry.)</p>
+        <p><a href='https://womenwho.design' target='_blank' rel="noopener noreferrer">Women Who Design</a> (Accomplished women designers.)</p>
+        <p><a href='https://blackswho.design' target='_blank' rel="noopener noreferrer">Blacks Who Design</a> (Inspiring Black designers.)</p>
+        <p><a href='https://www.latinxswhodesign.com' target='_blank' rel="noopener noreferrer">Latinxs Who Design</a> (Thriving Latinxs designers.)</p>
         <h2>Opt-out</h2>
         <p>If your profile has been added to the directory and you would like to opt out or edit the information, please send us an email to <a href='mailto:salute@vetswho.design'>salute@vetswho.design</a>.</p>
         <h2>Join us</h2>
