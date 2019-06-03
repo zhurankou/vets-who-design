@@ -9,7 +9,7 @@ const About = () =>
     <div className='content'>
       <div className='copy'>
         <h1>About</h1>
-        <p>Vets Who Design is a directory of veterans who have successfully transitioned from military service to a career in design.</p>
+        <p>Vets Who Design is a directory of veterans who have successfully transitioned from military service to a career in the design industry.</p>
         <p>The main mission of the project is to support veterans with their transition to the civilian world by providing career guidance, inspiration, networking, and mentoring opportunities.</p>
         <p>We also believe in the diversity and inclusiveness of a workplace, therefore this directory is a great resource for companies who are trying to improve in that direction and prove their service appreciation by hiring veterans.</p>
         <h2>Inspiration</h2>
