@@ -74,26 +74,6 @@ a:hover {
   margin: auto auto;
 }
 
-.menu {
-  padding-top: 8px;
-  padding-bottom: 4px;
-  position: fixed;
-  width: 320px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: var(--bg-95);
-}
-
-.menu-links a {
-  padding-left: 12px;
-  color: var(--accent);
-}
-
-.menu-links a:hover {
-  color: var(--accent-dk);
-}
-
 .logo {
   width: 52px;
 }
@@ -102,15 +82,41 @@ a:hover {
   animation: logoSpin infinite 20s linear;
 }
 
-.star {
-  font-size: 1.75rem;
-  padding-right: 3px;
+.logo-moto {
+  display: flex;
+  align-items: center;
+}
+
+.moto {
+  padding-left: 12px;
+}
+
+.menu {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: fixed;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-95);
+}
+
+.menu-links {
+  padding-top: 8px;
+}
+
+.menu-links a {
+  padding-right: 12px;
+  color: var(--accent);
+}
+
+.menu-links a:hover {
   color: var(--accent-dk);
 }
 
 .filters,
 .content {
-  padding-top: 72px;
+  padding-top: 112px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -265,6 +271,26 @@ a:hover {
   .container,
   .menu {
     width: 1024px;
+  }
+
+  .menu {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .menu-links {
+    padding-top: 0;
+  }
+
+  .menu-links a {
+    padding-right: 0;
+    padding-left: 12px;
+  }
+
+  .filters,
+  .content {
+    padding-top: 72px;
   }
 
   .content,
