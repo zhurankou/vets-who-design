@@ -32,7 +32,7 @@ class Stories extends Component {
         <div className='content'>
           <div className='copy'>
           <h1>Stories</h1>
-          <p>Every transition story is different and every veteran has a very personal experience of making their choices while persuing new career.</p>
+          <p>Every transition story is different and every veteran has a very personal experience of making their choices while pursuing a new career.</p>
           <p>On our <a href='https://medium.com/vets-who-design'>Vets Who Design</a> Medium publication we share stories about our transition experiences, so veterans who just think about making these steps could learn from them, get inspiration, and career guidance.</p>
           </div>
           <div className='feed'>
