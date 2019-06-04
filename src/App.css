@@ -92,8 +92,8 @@ a:hover {
 }
 
 .menu {
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 6px;
+  padding-bottom: 4px;
   position: fixed;
   width: 320px;
   display: flex;
@@ -102,7 +102,7 @@ a:hover {
 }
 
 .menu-links {
-  padding-top: 8px;
+  padding-top: 6px;
 }
 
 .menu-links a {
@@ -116,7 +116,7 @@ a:hover {
 
 .filters,
 .content {
-  padding-top: 112px;
+  padding-top: 108px;
   display: flex;
   flex-wrap: wrap;
 }
