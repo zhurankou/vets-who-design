@@ -287,9 +287,12 @@ a:hover {
     padding-left: 12px;
   }
 
-  .filters,
-  .content {
+  .filters {
     padding-top: 64px;
+  }
+
+  .content {
+    padding-top: 96px;
   }
 
   .content,
