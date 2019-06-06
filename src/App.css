@@ -82,17 +82,9 @@ a:hover {
   animation: logoSpin infinite 20s linear;
 }
 
-.logo-moto {
-  display: flex;
-  align-items: center;
-}
-
-.moto {
-  padding-left: 12px;
-}
-
 .menu {
   padding-top: 8px;
+  padding-bottom: 8px;
   position: fixed;
   width: 320px;
   display: flex;
@@ -100,12 +92,17 @@ a:hover {
   background-color: var(--bg-95);
 }
 
+.logo-link {
+  height: 48px;
+}
+
 .menu-links {
-  padding-bottom: 8px;
+  padding-top: 8px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .menu-links a {
-  padding-right: 12px;
   color: var(--accent);
 }
 
@@ -253,6 +250,11 @@ a:hover {
   color: var(--accent-dk);
 }
 
+.back-link {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
 /* !Keep at the bottom */
 .hidden {
   display: none;
@@ -283,7 +285,6 @@ a:hover {
   }
 
   .menu-links a {
-    padding-right: 0;
     padding-left: 12px;
   }
 

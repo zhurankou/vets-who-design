@@ -6,13 +6,11 @@ import logo from './logo-olive.svg';
 const Header = () =>
   <div className='container'>
     <div className='menu'>
-      <div className='logo-moto'>
-        <Link
-          to='/'>
-          <img src={logo} className='logo' alt="vets who design logo" />
-        </Link>
-        <span className='moto'><i>Mission_Final</i></span>
-      </div>
+      <Link
+        to='/'
+        className='logo-link'>
+        <img src={logo} className='logo' alt="vets who design logo" />
+      </Link>
       <div className='menu-links'>
         <Link to='/about'>About</Link>
         <Link to='/stories'>Stories</Link>
@@ -24,3 +22,5 @@ const Header = () =>
   </div>
 
 export default Header;
+
+// <span className='moto'><i>Mission_Final</i></span>
