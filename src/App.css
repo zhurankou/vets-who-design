@@ -190,7 +190,8 @@ a:hover {
 
 .article-meta {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .article-links {
@@ -316,13 +317,6 @@ a:hover {
   .profile-info,
   .article-info {
     padding: 10px;
-  }
-
-  .article-meta {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
   }
 
   .article-links {
