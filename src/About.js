@@ -19,7 +19,7 @@ const About = () =>
         <h2>Opt-out</h2>
         <p>If your profile has been added to the directory and you would like to opt out or edit the information, please send us an email to <a href='mailto:salute@vetswho.design'>salute@vetswho.design</a>.</p>
         <h2>Join us</h2>
-        <p>Join our <a href='https://join.slack.com/t/vetswhodesign/shared_invite/enQtNjIzNjgxNzU5ODg4LWI0MDg4ZjVlNTgwYzVmMDE4NTIyYTE1YWNjNTMyODgzZmZjNWZhZjExZjljMzE2ZDgyNjYxYjRmYjAxYThhYjU' target='_blank' rel="noopener noreferrer">Slack Channel</a>, read about our transition stories on <a href='https://medium.com/vets-who-design' target='_blank' rel="noopener noreferrer">Vets Who Design</a> Medium publication,  and follow <a href='https://twitter.com/VetsWhoDesign' target='_blank' rel="noopener noreferrer">@VetsWhoDesign</a> on Twitter.</p>
+        <p>Join our <a href='https://join.slack.com/t/vetswhodesign/shared_invite/enQtNjYwNjQ3ODEzMjcxLWUzNzRiZjU2MjFhMDk4NmI4MTY4OTdjMWQyN2ZmYTY2MWIxNjdjZTlmOTU1ZDkxZWZkYTM1ZTFkZmJmNThkZDg' target='_blank' rel="noopener noreferrer">Slack Channel</a>, read about our transition stories on <a href='https://medium.com/vets-who-design' target='_blank' rel="noopener noreferrer">Vets Who Design</a> Medium publication,  and follow <a href='https://twitter.com/VetsWhoDesign' target='_blank' rel="noopener noreferrer">@VetsWhoDesign</a> on Twitter.</p>
       </div>
     </div>
     <Footer/>
